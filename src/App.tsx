@@ -10,15 +10,35 @@ import {
   ErrorComponent,
 } from "@pankod/refine-mui";
 
+import {
+  AccountCircleOutlined,
+  ChatBubbleOutlined,
+  PeopleAltOutlined,
+  StarOutlineRounded,
+  VillaOutlined,
+  AutoAwesomeMosaic,
+} from '@mui/icons-material';
+
 import dataProvider from "@pankod/refine-simple-rest";
 import { MuiInferencer } from "@pankod/refine-inferencer/mui";
 import routerProvider from "@pankod/refine-react-router-v6";
 import axios, { AxiosRequestConfig } from "axios";
 import { ColorModeContextProvider } from "contexts";
 import { Title, Sider, Layout, Header } from "components/layout";
-import { Login } from "pages/login";
 import { CredentialResponse } from "interfaces/google";
 import { parseJwt } from "utils/parse-jwt";
+
+import { 
+  Login,
+  AgentProfile,
+  Agents,
+  AllProperties,
+  CreateProperty,
+  Home,
+  MyProfile,
+  PropertyDetails,
+  EditProperty,
+} from "pages";
 
 const axiosInstance = axios.create();
 axiosInstance.interceptors.request.use((request: AxiosRequestConfig) => {
@@ -98,12 +118,44 @@ function App() {
           catchAll={<ErrorComponent />}
           resources={[
             {
-              name: "posts",
-              list: MuiInferencer,
-              edit: MuiInferencer,
-              show: MuiInferencer,
-              create: MuiInferencer,
-              canDelete: true,
+              name: "dashboard",
+              options: {
+                label: "Dashboard"
+              },
+              list: Home,
+              icon: <AutoAwesomeMosaic />
+            },
+            {
+              name: "property",
+              list: AllProperties,
+              show: PropertyDetails,
+              create: CreateProperty,
+              edit: EditProperty,
+              icon: <VillaOutlined />
+            },
+            {
+              name: "agent",
+              list: Agents,
+              show: AgentProfile,
+              icon: <PeopleAltOutlined />
+            },
+            {
+              name: "review",
+              list: Home,
+              icon: <StarOutlineRounded />
+            },
+            {
+              name: "messages",
+              list: Home,
+              icon: <ChatBubbleOutlined />
+            },
+            {
+              name: "my-profile",
+              list: MyProfile,
+              options: {
+                label: "My Profile"
+              },
+              icon: <AccountCircleOutlined />
             },
           ]}
           Title={Title}

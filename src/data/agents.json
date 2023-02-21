@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "avatar": "business-man.jpg",
+        "name": "Hussain Ahmed",
+        "type": "Agent",
+        "location": "North Carolina, USA",
+        "properties_count": 10
+    }
+]

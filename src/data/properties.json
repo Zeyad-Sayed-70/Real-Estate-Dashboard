@@ -1,0 +1,1198 @@
+[
+    {
+        "id": 1,
+        "image": "house-1.jpg",
+        "type": "Apartment",
+        "title": "Star Sun Hotel & Aportment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 2,
+        "image": "house-2.webp",
+        "type": "Hotel",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 7400,
+        "rate": 5,
+        "price_paid": "for one week",
+        "agent_id": 1
+    },
+    {
+        "id": 3,
+        "image": "house-3.jpg",
+        "type": "Hotel",
+        "title": "Lavender Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 4,
+        "image": "house-4.jpg",
+        "type": "Apartment",
+        "title": "Almander Hotel & Apartment ",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 5,
+        "image": "house-5.jpg",
+        "type": "Apartment",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 6,
+        "image": "house-6.jpg",
+        "type": "Hotel",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 7,
+        "image": "house-7.jpg",
+        "type": "Apartment",
+        "title": "Lotus Apy Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 8,
+        "image": "house-8.jpg",
+        "type": "Apartment",
+        "title": "Star Sun Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 9,
+        "image": "house-9.jpg",
+        "type": "Apartment",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 10,
+        "image": "house-10.jpg",
+        "type": "Hotel",
+        "title": "Almander Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 11,
+        "image": "house-11.webp",
+        "type": "Apartment",
+        "title": "Star Sun Hotel & Aportment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 12,
+        "image": "house-12.jpg",
+        "type": "Hotel",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 7400,
+        "rate": 5,
+        "price_paid": "for one week",
+        "agent_id": 1
+    },
+    {
+        "id": 13,
+        "image": "house-13.jpg",
+        "type": "Hotel",
+        "title": "Lavender Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 14,
+        "image": "house-14.jpg",
+        "type": "Apartment",
+        "title": "Almander Hotel & Apartment ",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 15,
+        "image": "house-15.jpg",
+        "type": "Apartment",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 16,
+        "image": "house-16.jpg",
+        "type": "Hotel",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 17,
+        "image": "house-17.jpg",
+        "type": "Apartment",
+        "title": "Lotus Apy Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 18,
+        "image": "house-18.jpg",
+        "type": "Apartment",
+        "title": "Star Sun Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 19,
+        "image": "house-19.jpg",
+        "type": "Apartment",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 20,
+        "image": "house-20.jpg",
+        "type": "Hotel",
+        "title": "Almander Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 21,
+        "image": "house-21.avif",
+        "type": "Hotel",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 22,
+        "image": "house-22.jpg",
+        "type": "Apartment",
+        "title": "Lotus Apy Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 23,
+        "image": "house-23.jpg",
+        "type": "Apartment",
+        "title": "Star Sun Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 24,
+        "image": "house-24.jpg",
+        "type": "Apartment",
+        "title": "Metro Jayakarta Hotel & Spa",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 25,
+        "image": "house-25.jpg",
+        "type": "Hotel",
+        "title": "Almander Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    },
+    {
+        "id": 26,
+        "image": "house-2.webp",
+        "type": "Hotel",
+        "title": "Almander Hotel & Apartment",
+        "location": "North Carolina, USA",
+        "facillity": [
+            {
+                "title": "Beds",
+                "count": 4
+            },
+            {
+                "title": "Baths",
+                "count": null
+            },
+            {
+                "title": "Area",
+                "count": 28
+            },
+            {
+                "title": "Smooking Area",
+                "count": null
+            },
+            {
+                "title": "Kitchen",
+                "count": null
+            },
+            {
+                "title": "Balcony",
+                "count": null
+            },
+            {
+                "title": "Wifi",
+                "count": null
+            },
+            {
+                "title": "Parking Area",
+                "count": null
+            }
+        ],
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "price": 80,
+        "rate": 5,
+        "price_paid": "for one day",
+        "agent_id": 1
+    }
+]
