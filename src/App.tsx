@@ -39,6 +39,8 @@ import {
   PropertyDetails,
   EditProperty,
 } from "pages";
+import Reviews from "pages/reviews";
+import Message from "pages/message";
 
 const axiosInstance = axios.create();
 axiosInstance.interceptors.request.use((request: AxiosRequestConfig) => {
@@ -141,12 +143,12 @@ function App() {
             },
             {
               name: "review",
-              list: Home,
+              list: Reviews,
               icon: <StarOutlineRounded />
             },
             {
               name: "messages",
-              list: Home,
+              list: Message,
               icon: <ChatBubbleOutlined />
             },
             {

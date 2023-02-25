@@ -1,7 +1,7 @@
 export interface CustomButtonProps {
     type?: 'outlined' | 'contained';
     title: string;
-    backgroundColor: string;
+    backgroundColor?: string;
     color: string;
     fullWidth?: boolean;
     icon?: ReactNode;

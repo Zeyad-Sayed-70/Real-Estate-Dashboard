@@ -4,7 +4,32 @@
         "avatar": "business-man.jpg",
         "name": "Hussain Ahmed",
         "type": "Agent",
-        "location": "North Carolina, USA",
-        "properties_count": 10
+        "age": 26,
+        "agent_id": "#18457 865 8745",
+        "info": {
+            "mail": "hussain145@gmail.com",
+            "phone": "+021 541 236 4580",
+            "city": "Manchester",
+            "properties_count": "15 Properties"
+        },
+        "address": {
+            "city": "New York City",
+            "state": "New York",
+            "country": "USA",
+            "post_code": 1001
+        },
+        "agent_details": {
+            "description": "Talent customers tend to earn a basic salary in the range of £15,000 to £35,000 per annum. However, talented customers also earn a commission for finding their client's work. Typically, agents receive around 10% of what the client is paid.",
+            "agency": "All American Real Estate",
+            "agency_license": "3124 9764 9700 234",
+            "tax_number": "TX 87D0 678H PQ45",
+            "service_area": "Chicago, Los Angeles, New York, Miami beach"
+        },
+        "agent_status": {
+            "total_listing": 1050,
+            "properties_sold": 650,
+            "properties_rent": 400
+        },
+        "active_listing": [1, 2, 3, 4]
     }
 ]

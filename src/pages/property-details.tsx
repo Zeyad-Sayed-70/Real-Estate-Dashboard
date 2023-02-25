@@ -78,8 +78,8 @@ const PropertyDetails = () => {
             <Avatar src={`/assests/${agentData[0].avatar}`} alt={agentData[0].name} sx={{ width: 80, height: 80 }} />
             <Typography fontSize={18} fontWeight={600} color='#11142D'>{agentData[0].name}</Typography>
             <Typography fontSize={14} fontWeight={400} color='#808191'>{agentData[0].type}</Typography>
-            <Stack direction='row' alignItems='center' gap={1} sx={{ 'svg': { color: '#808191', fontSize: '14px' } }}><LocationOnIcon /> <Typography textTransform='capitalize' fontSize={14} fontWeight={400} color='#808191'>{agentData[0].location}</Typography></Stack>
-            <Typography fontSize={16} fontWeight={600} color='#11142D'>{agentData[0].properties_count} Properties</Typography>
+            <Stack direction='row' alignItems='center' gap={1} sx={{ 'svg': { color: '#808191', fontSize: '14px' } }}><LocationOnIcon /> <Typography textTransform='capitalize' fontSize={14} fontWeight={400} color='#808191'>{agentData[0].address.state}, {agentData[0].address.country}</Typography></Stack>
+            <Typography fontSize={16} fontWeight={600} color='#11142D'>{agentData[0].info.properties_count} Properties</Typography>
             <Stack direction='row' gap={3} width='100%' px={3}>
               <CustomButton
                 title="Message"

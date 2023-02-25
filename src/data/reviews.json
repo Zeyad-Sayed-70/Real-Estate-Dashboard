@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "type": "published",
+        "code": "#C01234",
+        "name": "James Sullivan",
+        "avatar": "business-man.jpg",
+        "date": "25-04-2022",
+        "time": "12:42 PM",
+        "review": "Friendly service Josh, Lunar and everyone at Just Property in Hastings deserved a big Thank You from us for moving us from Jakarta to Medan during the lockdown.",
+        "rate": 5,
+        "tags": ["EXCELENT", "GREAT", "BEST SERVICE"],
+        "satisfied": true
+    },
+    {
+        "id": 2,
+        "type": "deleted",
+        "code": "#C01235",
+        "name": "Jakir Hussen",
+        "avatar": "business-man.jpg",
+        "date": "15-09-2022",
+        "time": "11:40 AM",
+        "review": "Friendly service Josh, Lunar and everyone at Just Property in Hastings deserved a big Thank You from us for moving us from Jakarta to Medan during the lockdown.",
+        "rate": 5,
+        "tags": ["BAD SERVICE", "UNEXPECED"],
+        "satisfied": false
+    }
+]

@@ -35,7 +35,7 @@ const CustomButton = ({
       style={customeStyle}
     >
       {icon}
-      <Typography fontWeight={500} sx={{ textTransform: 'capitalize', ml: 1 }}>{title}</Typography>
+      <Typography fontWeight={500} sx={{ textTransform: 'capitalize', ml: icon ? 1 : 0 }}>{title}</Typography>
     </Button>
   )
 }
