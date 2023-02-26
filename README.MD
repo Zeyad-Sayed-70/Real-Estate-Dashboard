@@ -1,18 +1,22 @@
 # Real-Estate Dashboard Showing Revenue Statictics, Agents, Reviews and more.
 
-# Start Up
+## Start Up
 
 > npm run dev
 
-# Styling
+<br/>
 
-> Using Material UI Components
-> Using Figma Design
+## Styling
 
-# Technologies & Libraries That Used
+> - Using Material UI Components.
+> - Using Figma Design.
 
-> . React
-> . React-Router
-> . Typescript
-> . Material UI
-> . ApexCharts
+<br/>
+
+## Technologies & Libraries That Used
+
+> - React
+> - React-Router
+> - Typescript
+> - Material UI
+> - ApexCharts
