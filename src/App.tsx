@@ -1,5 +1,3 @@
-import React from "react";
-
 import { Refine, AuthProvider } from "@pankod/refine-core";
 import {
   notificationProvider,
@@ -17,10 +15,9 @@ import {
   StarOutlineRounded,
   VillaOutlined,
   AutoAwesomeMosaic,
-} from '@mui/icons-material';
+} from "@mui/icons-material";
 
 import dataProvider from "@pankod/refine-simple-rest";
-import { MuiInferencer } from "@pankod/refine-inferencer/mui";
 import routerProvider from "@pankod/refine-react-router-v6";
 import axios, { AxiosRequestConfig } from "axios";
 import { ColorModeContextProvider } from "contexts";
@@ -28,7 +25,7 @@ import { Title, Sider, Layout, Header } from "components/layout";
 import { CredentialResponse } from "interfaces/google";
 import { parseJwt } from "utils/parse-jwt";
 
-import { 
+import {
   Login,
   AgentProfile,
   Agents,
@@ -111,7 +108,11 @@ function App() {
   return (
     <ColorModeContextProvider>
       <CssBaseline />
-      <GlobalStyles styles={{ html: { WebkitFontSmoothing: "auto" } }} />
+      <GlobalStyles
+        styles={{
+          html: { WebkitFontSmoothing: "auto" },
+        }}
+      />
       <RefineSnackbarProvider>
         <Refine
           dataProvider={dataProvider("https://api.fake-rest.refine.dev")}
@@ -122,10 +123,10 @@ function App() {
             {
               name: "dashboard",
               options: {
-                label: "Dashboard"
+                label: "Dashboard",
               },
               list: Home,
-              icon: <AutoAwesomeMosaic />
+              icon: <AutoAwesomeMosaic />,
             },
             {
               name: "property",
@@ -133,31 +134,31 @@ function App() {
               show: PropertyDetails,
               create: CreateProperty,
               edit: EditProperty,
-              icon: <VillaOutlined />
+              icon: <VillaOutlined />,
             },
             {
               name: "agent",
               list: Agents,
               show: AgentProfile,
-              icon: <PeopleAltOutlined />
+              icon: <PeopleAltOutlined />,
             },
             {
               name: "review",
               list: Reviews,
-              icon: <StarOutlineRounded />
+              icon: <StarOutlineRounded />,
             },
             {
               name: "messages",
               list: Message,
-              icon: <ChatBubbleOutlined />
+              icon: <ChatBubbleOutlined />,
             },
             {
               name: "my-profile",
               list: MyProfile,
               options: {
-                label: "My Profile"
+                label: "My Profile",
               },
-              icon: <AccountCircleOutlined />
+              icon: <AccountCircleOutlined />,
             },
           ]}
           Title={Title}

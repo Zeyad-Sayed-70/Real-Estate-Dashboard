@@ -42,7 +42,7 @@ export const Login: React.FC = () => {
     <Box
       component="div"
       sx={{
-        background: '#FCFCFC',
+        background: "#FCFCFC",
         backgroundSize: "cover",
       }}
     >
@@ -65,7 +65,7 @@ export const Login: React.FC = () => {
           }}
         >
           <div>
-            <img src='./yariga.svg' alt="Yariga Logo" />
+            <img src="./logo.png" alt="Blue-Estate Logo" width={80} />
           </div>
           <Box mt={4}>
             <GoogleButton />
